@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextViewBackgroundBug</string>
+    <string name="shrink">Shrink !</string>
+    <string name="expand">Expand !</string>
+</resources>
